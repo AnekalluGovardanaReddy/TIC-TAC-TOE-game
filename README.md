@@ -1,7 +1,7 @@
 🎮 **TIC-TAC-TOE Game**
 
-A simple, responsive Tic Tac Toe game built using HTML, CSS, and JavaScript.  
-Play against a friend in the browser with sound effects, winning animations, and a reset feature.
+A simple, responsive Tic Tac Toe game built using HTML, CSS, and JavaScript
+Play against a friend in the browser with sound effects, winning animations, and a reset feature
 
 **Live Preview**
 https://anekallugovardanareddy.github.io/TIC-TAC-TOE-game/
